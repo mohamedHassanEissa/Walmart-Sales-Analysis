@@ -41,3 +41,7 @@ holiday-season impact, and assess whether external economic factors
 
 ## Data Source
 [Kaggle: Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+
+
+## Dashboard Preview
+![Dashboard Overview](overview_screenshot.png)
