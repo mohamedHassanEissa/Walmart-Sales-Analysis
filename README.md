@@ -6,6 +6,19 @@ stores to identify performance gaps between store types, quantify
 holiday-season impact, and assess whether external economic factors
 (unemployment, fuel price) influence sales.
 
+## Key Findings at a Glance
+
+| Metric | Result |
+|---|---|
+| **Holiday Lift** | +7.1% average sales increase during holiday weeks |
+| **Top Performing Store** | Store 20 — $301.4M total sales |
+| **Lowest Performing Store** | Store 33 — $37.2M total sales (flagged underperformer) |
+| **YoY Growth (2011 vs 2010)** | +6.96% |
+
+> **Note:** 2012 data only runs through October (partial year), so it's excluded from YoY comparison to keep it apples-to-apples.
+
+---
+
 ## Tools
 - **Excel** — initial data cleaning and consolidation
 - **SQL Server (T-SQL)** — dimensional modeling, data validation, analysis queries
